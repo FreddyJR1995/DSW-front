@@ -11,11 +11,11 @@ body {
 }
 
 .ant-layout {
-    min-height: 100vh;
+    min-height: 200vh;
 }
 
 .header-wrapper {
-    background: #001529;
+    background: #d5c5c5;
 }
 
 .ant-menu {
@@ -137,11 +137,11 @@ code {
     padding: 30px 20px;
     min-height: 200px;
     background-color: #2e2a25ee;
-    color: #ffffff;
+    color: #000000;
 }
 
 .footer a {
-    color: #ffffff;
+    color: #000000;
     text-decoration: underline;
 }
 
@@ -212,8 +212,8 @@ code {
     .footer {
         padding: 30px 100px;
         min-height: 200px;
-        background-color: #2e2a25ee;
-        color: #ffffff;
+        background-color: #d5c5c5;
+        color: #000000;
     }
 
     .logo-blanco {
