@@ -75,7 +75,7 @@ const HomePage = () => {
                         Somos estudiantes de la<br/>
                         Escuela Politécnica Nacional<br/>
                         tratando de solucionar y ayudar a<br/>
-                        la comunidad en los estos momentos<br/>
+                        la comunidad en estos momentos<br/>
                         donde la automatización de algunos<br/>
                         servicios es importante<br/>
                     </p>
